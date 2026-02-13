@@ -4,19 +4,19 @@
     "offTracks": 0,
     "spins": 0,
     "bigSaves": 18,
-    "resets": 33,
-    "resetsPerLap": 0.44,
-    "eventsPerLap": 0.68,
-    "totalLaps": 75
+    "resets": 31,
+    "resetsPerLap": 0.425,
+    "eventsPerLap": 0.671,
+    "totalLaps": 73
   },
   {
     "date": "2026-02-13",
     "offTracks": 0,
     "spins": 1,
-    "bigSaves": 38,
-    "resets": 96,
-    "resetsPerLap": 0.495,
-    "eventsPerLap": 0.696,
-    "totalLaps": 194
+    "bigSaves": 80,
+    "resets": 211,
+    "resetsPerLap": 0.465,
+    "eventsPerLap": 0.643,
+    "totalLaps": 454
   }
 ]

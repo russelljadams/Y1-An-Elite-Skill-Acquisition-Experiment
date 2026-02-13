@@ -1,13 +1,13 @@
 {
   "date": "2026-02-13",
-  "sessions": 4,
-  "laps": 3,
-  "resets": 96,
+  "sessions": 5,
+  "laps": 12,
+  "resets": 211,
   "resetHotspotsBins": [
     {
       "startPct": 0.15,
       "endPct": 0.2,
-      "count": 13
+      "count": 14
     },
     {
       "startPct": 0.2,
@@ -22,7 +22,7 @@
     {
       "startPct": 0.35,
       "endPct": 0.4,
-      "count": 1
+      "count": 4
     },
     {
       "startPct": 0.4,
@@ -30,31 +30,26 @@
       "count": 1
     },
     {
-      "startPct": 0.55,
-      "endPct": 0.6,
-      "count": 1
-    },
-    {
-      "startPct": 0.75,
-      "endPct": 0.8,
-      "count": 1
-    },
-    {
       "startPct": 0.95,
       "endPct": 1.0,
-      "count": 73
+      "count": 185
+    },
+    {
+      "startPct": 1.0,
+      "endPct": 1.05,
+      "count": 1
     }
   ],
   "tracks": {
     "spa": {
-      "sessions": 4,
-      "laps": 3,
-      "resets": 96,
+      "sessions": 5,
+      "laps": 12,
+      "resets": 211,
       "resetHotspotsBins": [
         {
           "startPct": 0.15,
           "endPct": 0.2,
-          "count": 13
+          "count": 14
         },
         {
           "startPct": 0.2,
@@ -69,7 +64,7 @@
         {
           "startPct": 0.35,
           "endPct": 0.4,
-          "count": 1
+          "count": 4
         },
         {
           "startPct": 0.4,
@@ -77,23 +72,18 @@
           "count": 1
         },
         {
-          "startPct": 0.55,
-          "endPct": 0.6,
-          "count": 1
-        },
-        {
-          "startPct": 0.75,
-          "endPct": 0.8,
-          "count": 1
-        },
-        {
           "startPct": 0.95,
           "endPct": 1.0,
-          "count": 73
+          "count": 185
+        },
+        {
+          "startPct": 1.0,
+          "endPct": 1.05,
+          "count": 1
         }
       ],
-      "durationHours": 1.26
+      "durationHours": 2.91
     }
   },
-  "durationHours": 1.26
+  "durationHours": 2.91
 }

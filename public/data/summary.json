@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-02-13T22:51:45.129773Z",
-  "totalSessions": 6,
-  "totalLaps": 8,
-  "totalHours": 2.68,
-  "totalResets": 129,
+  "generatedAt": "2026-02-13T23:37:17.551809Z",
+  "totalSessions": 7,
+  "totalLaps": 19,
+  "totalHours": 4.32,
+  "totalResets": 242,
   "resetHotspotsBins": [
     {
       "startPct": 0.15,
       "endPct": 0.2,
-      "count": 15
+      "count": 16
     },
     {
       "startPct": 0.2,
@@ -23,7 +23,7 @@
     {
       "startPct": 0.35,
       "endPct": 0.4,
-      "count": 2
+      "count": 5
     },
     {
       "startPct": 0.4,
@@ -31,32 +31,27 @@
       "count": 2
     },
     {
-      "startPct": 0.55,
-      "endPct": 0.6,
-      "count": 3
-    },
-    {
-      "startPct": 0.75,
-      "endPct": 0.8,
-      "count": 1
-    },
-    {
       "startPct": 0.95,
       "endPct": 1.0,
-      "count": 98
+      "count": 210
+    },
+    {
+      "startPct": 1.0,
+      "endPct": 1.05,
+      "count": 1
     }
   ],
   "latestDay": "2026-02-13",
   "monthlyBreakdown": [
     {
       "month": "2026-02",
-      "sessions": 6,
-      "hours": 2.68,
-      "laps": 8
+      "sessions": 7,
+      "hours": 4.32,
+      "laps": 19
     }
   ],
   "jan2026Sessions": 0,
   "jan2026Hours": 0.0,
-  "feb2026Sessions": 6,
-  "feb2026Hours": 2.68
+  "feb2026Sessions": 7,
+  "feb2026Hours": 4.32
 }

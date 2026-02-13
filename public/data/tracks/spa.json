@@ -1,13 +1,13 @@
 {
   "track": "spa",
-  "sessions": 6,
-  "laps": 8,
-  "resets": 129,
+  "sessions": 7,
+  "laps": 19,
+  "resets": 242,
   "resetHotspotsBins": [
     {
       "startPct": 0.15,
       "endPct": 0.2,
-      "count": 15
+      "count": 16
     },
     {
       "startPct": 0.2,
@@ -22,7 +22,7 @@
     {
       "startPct": 0.35,
       "endPct": 0.4,
-      "count": 2
+      "count": 5
     },
     {
       "startPct": 0.4,
@@ -30,20 +30,15 @@
       "count": 2
     },
     {
-      "startPct": 0.55,
-      "endPct": 0.6,
-      "count": 3
-    },
-    {
-      "startPct": 0.75,
-      "endPct": 0.8,
-      "count": 1
-    },
-    {
       "startPct": 0.95,
       "endPct": 1.0,
-      "count": 98
+      "count": 210
+    },
+    {
+      "startPct": 1.0,
+      "endPct": 1.05,
+      "count": 1
     }
   ],
-  "durationHours": 2.68
+  "durationHours": 4.32
 }

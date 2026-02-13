@@ -1,8 +1,8 @@
 {
   "date": "2026-02-12",
   "sessions": 2,
-  "laps": 5,
-  "resets": 33,
+  "laps": 7,
+  "resets": 31,
   "resetHotspotsBins": [
     {
       "startPct": 0.15,
@@ -25,11 +25,6 @@
       "count": 1
     },
     {
-      "startPct": 0.55,
-      "endPct": 0.6,
-      "count": 2
-    },
-    {
       "startPct": 0.95,
       "endPct": 1.0,
       "count": 25
@@ -38,8 +33,8 @@
   "tracks": {
     "spa": {
       "sessions": 2,
-      "laps": 5,
-      "resets": 33,
+      "laps": 7,
+      "resets": 31,
       "resetHotspotsBins": [
         {
           "startPct": 0.15,
@@ -60,11 +55,6 @@
           "startPct": 0.4,
           "endPct": 0.45,
           "count": 1
-        },
-        {
-          "startPct": 0.55,
-          "endPct": 0.6,
-          "count": 2
         },
         {
           "startPct": 0.95,

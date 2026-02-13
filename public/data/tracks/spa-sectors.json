@@ -3,19 +3,24 @@
     "date": "2026-02-12",
     "sectors": {
       "Sector 1": {
-        "best": 41.296,
-        "median": 43.866,
-        "stddev": 1.367
+        "best": 27.927,
+        "median": 28.159,
+        "stddev": 0.129
       },
       "Sector 2": {
-        "best": 52.891,
-        "median": 53.146,
-        "stddev": 0.392
+        "best": 40.518,
+        "median": 42.874,
+        "stddev": 1.384
       },
       "Sector 3": {
-        "best": 48.007,
-        "median": 48.227,
-        "stddev": 3.792
+        "best": 44.106,
+        "median": 44.203,
+        "stddev": 0.208
+      },
+      "Sector 4": {
+        "best": 29.713,
+        "median": 29.774,
+        "stddev": 3.87
       }
     }
   },
@@ -23,19 +28,24 @@
     "date": "2026-02-13",
     "sectors": {
       "Sector 1": {
-        "best": 40.476,
-        "median": 40.6,
-        "stddev": 1.003
+        "best": 27.465,
+        "median": 27.708,
+        "stddev": 0.27
       },
       "Sector 2": {
-        "best": 32.288,
-        "median": 37.861,
-        "stddev": 9.329
+        "best": 39.882,
+        "median": 40.2,
+        "stddev": 1.099
       },
       "Sector 3": {
-        "best": 0.545,
-        "median": 0.913,
-        "stddev": 21.932
+        "best": 5.166,
+        "median": 10.994,
+        "stddev": 18.053
+      },
+      "Sector 4": {
+        "best": 0.541,
+        "median": 0.908,
+        "stddev": 14.179
       }
     }
   }

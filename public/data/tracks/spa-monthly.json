@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-02",
-    "bestLap": 140.176,
-    "medianLap": 145.642,
-    "stdDev": 11.743,
-    "completeLaps": 8,
+    "bestLap": 139.218,
+    "medianLap": 143.23,
+    "stdDev": 8.77,
+    "completeLaps": 19,
     "worstLap": 175.999,
-    "p25": 142.164,
-    "p75": 153.554,
-    "iqr": 11.39
+    "p25": 140.585,
+    "p75": 145.642,
+    "iqr": 5.057
   }
 ]
