@@ -1,7 +1,7 @@
 {
   "date": "2026-02-12",
   "sessions": 2,
-  "laps": 7,
+  "laps": 4,
   "resets": 31,
   "resetHotspotsBins": [
     {
@@ -33,7 +33,7 @@
   "tracks": {
     "spa": {
       "sessions": 2,
-      "laps": 7,
+      "laps": 4,
       "resets": 31,
       "resetHotspotsBins": [
         {

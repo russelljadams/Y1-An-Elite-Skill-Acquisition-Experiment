@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-02-13T23:37:17.551809Z",
+  "generatedAt": "2026-02-13T23:59:11.315195Z",
   "totalSessions": 7,
-  "totalLaps": 19,
+  "totalLaps": 14,
   "totalHours": 4.32,
   "totalResets": 242,
   "resetHotspotsBins": [
@@ -47,7 +47,7 @@
       "month": "2026-02",
       "sessions": 7,
       "hours": 4.32,
-      "laps": 19
+      "laps": 14
     }
   ],
   "jan2026Sessions": 0,
