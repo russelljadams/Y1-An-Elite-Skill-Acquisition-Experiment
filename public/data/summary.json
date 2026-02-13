@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-13T22:45:30.520849Z",
-  "totalSessions": 9,
-  "totalLaps": 41,
-  "totalHours": 3.81,
+  "generatedAt": "2026-02-13T22:51:45.129773Z",
+  "totalSessions": 6,
+  "totalLaps": 8,
+  "totalHours": 2.68,
   "totalResets": 129,
   "resetHotspotsBins": [
     {
@@ -50,13 +50,13 @@
   "monthlyBreakdown": [
     {
       "month": "2026-02",
-      "sessions": 9,
-      "hours": 3.81,
-      "laps": 41
+      "sessions": 6,
+      "hours": 2.68,
+      "laps": 8
     }
   ],
   "jan2026Sessions": 0,
   "jan2026Hours": 0.0,
-  "feb2026Sessions": 9,
-  "feb2026Hours": 3.81
+  "feb2026Sessions": 6,
+  "feb2026Hours": 2.68
 }
