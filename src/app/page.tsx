@@ -34,10 +34,10 @@ function getCurrentMonthHours(summary: SummaryData): { hours: number; month: str
 }
 
 const TRACKS = [
+  { slug: "spa", label: "Spa" },
   { slug: "monza-full", label: "Monza" },
-  { slug: "silverstone-2019-gp", label: "Silverstone" },
-  { slug: "suzuka-grandprix", label: "Suzuka" },
-  { slug: "spa-2024-bike", label: "Spa" },
+  { slug: "nurburgring-gp", label: "Nürburgring GP" },
+  { slug: "barcelona-gp", label: "Barcelona" },
 ];
 
 export default function Home() {
@@ -153,6 +153,20 @@ export default function Home() {
 
       <section className="mb-16">
         <h2 className="text-sm font-medium mb-4 text-muted-foreground uppercase tracking-wider">
+          Schedule
+        </h2>
+        <div className="text-sm text-muted-foreground mb-6 leading-relaxed">
+          <p>
+            12 months, three phases. Practice starts blocked — one track at a
+            time — then gets progressively more varied. 100 hours per month
+            target, 90h floor.
+          </p>
+        </div>
+        <Schedule />
+      </section>
+
+      <section className="mb-16">
+        <h2 className="text-sm font-medium mb-4 text-muted-foreground uppercase tracking-wider">
           What I&apos;m measuring
         </h2>
         <div className="text-sm text-muted-foreground space-y-2 leading-relaxed">
@@ -226,5 +240,110 @@ function NavLink({
       </span>
       <span className="text-muted-foreground">&mdash; {desc}</span>
     </Link>
+  );
+}
+
+const PHASE_1_BLOCKS = [
+  { track: "Spa", dates: "Feb 13 – Mar 8", hours: "~75h" },
+  { track: "Monza", dates: "Mar 9 – Mar 29", hours: "~75h" },
+  { track: "Nürburgring GP", dates: "Mar 30 – Apr 19", hours: "~75h" },
+  { track: "Barcelona", dates: "Apr 20 – May 10", hours: "~75h" },
+];
+
+function getCurrentBlock(): number {
+  const now = new Date();
+  const cutoffs = [
+    new Date("2026-03-09"),
+    new Date("2026-03-30"),
+    new Date("2026-04-20"),
+    new Date("2026-05-11"),
+  ];
+  for (let i = 0; i < cutoffs.length; i++) {
+    if (now < cutoffs[i]) return i;
+  }
+  return -1;
+}
+
+function Schedule() {
+  const activeBlock = getCurrentBlock();
+
+  return (
+    <div className="space-y-6">
+      {/* Phase 1 */}
+      <div className="glass p-5">
+        <div className="flex items-baseline justify-between mb-1">
+          <h3 className="text-sm font-medium text-foreground">
+            Phase 1 — Blocked
+          </h3>
+          <span className="text-xs text-muted-foreground">months 1–3</span>
+        </div>
+        <p className="text-xs text-muted-foreground mb-4">
+          One track at a time. Learn the circuit, reduce incidents, then push.
+          First baseline after ~10 hours on track, second at end of block.
+        </p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+          {PHASE_1_BLOCKS.map((block, i) => {
+            const isActive = i === activeBlock;
+            const isPast = activeBlock > i || activeBlock === -1;
+            return (
+              <div
+                key={block.track}
+                className={`p-3 rounded-lg border ${
+                  isActive
+                    ? "border-cyan-500/40 bg-cyan-500/[0.08]"
+                    : isPast
+                    ? "border-white/[0.06] bg-white/[0.02] opacity-60"
+                    : "border-white/[0.06] bg-white/[0.02]"
+                }`}
+              >
+                <div className="flex items-center justify-between">
+                  <span className={`text-sm font-medium ${isActive ? "text-cyan-400" : "text-foreground"}`}>
+                    {block.track}
+                  </span>
+                  {isActive && (
+                    <span className="text-[10px] uppercase tracking-wider text-cyan-400 font-medium">
+                      now
+                    </span>
+                  )}
+                </div>
+                <div className="text-xs text-muted-foreground mt-1">
+                  {block.dates} &middot; {block.hours}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Phase 2 */}
+      <div className="glass p-5">
+        <div className="flex items-baseline justify-between mb-1">
+          <h3 className="text-sm font-medium text-foreground">
+            Phase 2 — Serial rotation
+          </h3>
+          <span className="text-xs text-muted-foreground">months 4–7</span>
+        </div>
+        <p className="text-xs text-muted-foreground">
+          Rotate through tracks in sequence. Each switch starts with a baseline
+          to measure retention. Longer blocks, but every track gets regular
+          contact.
+        </p>
+      </div>
+
+      {/* Phase 3 */}
+      <div className="glass p-5">
+        <div className="flex items-baseline justify-between mb-1">
+          <h3 className="text-sm font-medium text-foreground">
+            Phase 3 — Interleaved
+          </h3>
+          <span className="text-xs text-muted-foreground">months 8–12</span>
+        </div>
+        <p className="text-xs text-muted-foreground">
+          Mix tracks freely within weeks or even sessions. The hardest schedule
+          for short-term performance, but the research says it produces the most
+          durable skill transfer.
+        </p>
+      </div>
+    </div>
   );
 }

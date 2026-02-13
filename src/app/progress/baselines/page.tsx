@@ -11,10 +11,10 @@ export const metadata: Metadata = {
 };
 
 const TRACKS = [
-  { slug: "monza-full", label: "Monza Full" },
-  { slug: "silverstone-2019-gp", label: "Silverstone 2019 Gp" },
-  { slug: "suzuka-grandprix", label: "Suzuka" },
-  { slug: "spa-2024-bike", label: "Spa 2024 Bike" },
+  { slug: "spa", label: "Spa" },
+  { slug: "monza-full", label: "Monza" },
+  { slug: "nurburgring-gp", label: "Nürburgring GP" },
+  { slug: "barcelona-gp", label: "Barcelona" },
 ];
 
 function loadBaselines(slug: string): BaselineEntry[] {
