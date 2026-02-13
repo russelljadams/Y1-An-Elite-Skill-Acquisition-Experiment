@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-01-02",
+    "offTracks": 0,
+    "spins": 13,
+    "bigSaves": 27,
+    "eventsPerLap": 0.19,
+    "totalLaps": 211
+  },
+  {
+    "date": "2026-01-03",
+    "offTracks": 0,
+    "spins": 0,
+    "bigSaves": 5,
+    "eventsPerLap": 0.085,
+    "totalLaps": 59
+  },
+  {
+    "date": "2026-01-04",
+    "offTracks": 0,
+    "spins": 1,
+    "bigSaves": 36,
+    "eventsPerLap": 0.303,
+    "totalLaps": 122
+  },
+  {
+    "date": "2026-01-05",
+    "offTracks": 0,
+    "spins": 10,
+    "bigSaves": 31,
+    "eventsPerLap": 0.261,
+    "totalLaps": 157
+  }
+]

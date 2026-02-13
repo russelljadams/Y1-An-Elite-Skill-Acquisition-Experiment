@@ -1,0 +1,29 @@
+{
+  "track": "suzuka grandprix",
+  "sessions": 8,
+  "laps": 19,
+  "resets": 115,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.2,
+      "endPct": 0.25,
+      "count": 1
+    },
+    {
+      "startPct": 0.25,
+      "endPct": 0.3,
+      "count": 1
+    },
+    {
+      "startPct": 0.3,
+      "endPct": 0.35,
+      "count": 1
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 112
+    }
+  ],
+  "durationHours": 3.05
+}

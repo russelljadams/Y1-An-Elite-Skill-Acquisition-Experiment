@@ -1,0 +1,17 @@
+{
+  "date": "2026-02-12",
+  "sessions": 3,
+  "laps": 12,
+  "resets": 0,
+  "resetHotspotsBins": [],
+  "tracks": {
+    "suzuka grandprix": {
+      "sessions": 3,
+      "laps": 12,
+      "resets": 0,
+      "resetHotspotsBins": [],
+      "durationHours": 0.46
+    }
+  },
+  "durationHours": 0.46
+}

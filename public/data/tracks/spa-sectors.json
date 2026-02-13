@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-02-12",
+    "sectors": {
+      "Sector 1": {
+        "best": 41.296,
+        "median": 43.866,
+        "stddev": 1.367
+      },
+      "Sector 2": {
+        "best": 52.891,
+        "median": 53.146,
+        "stddev": 0.392
+      },
+      "Sector 3": {
+        "best": 48.007,
+        "median": 48.227,
+        "stddev": 3.792
+      }
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "sectors": {
+      "Sector 1": {
+        "best": 40.476,
+        "median": 40.6,
+        "stddev": 1.003
+      },
+      "Sector 2": {
+        "best": 32.288,
+        "median": 37.861,
+        "stddev": 9.329
+      },
+      "Sector 3": {
+        "best": 0.545,
+        "median": 0.913,
+        "stddev": 21.932
+      }
+    }
+  }
+]

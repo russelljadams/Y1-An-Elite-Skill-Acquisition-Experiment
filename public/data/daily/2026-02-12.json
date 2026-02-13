@@ -1,0 +1,79 @@
+{
+  "date": "2026-02-12",
+  "sessions": 2,
+  "laps": 5,
+  "resets": 33,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.15,
+      "endPct": 0.2,
+      "count": 2
+    },
+    {
+      "startPct": 0.2,
+      "endPct": 0.25,
+      "count": 2
+    },
+    {
+      "startPct": 0.35,
+      "endPct": 0.4,
+      "count": 1
+    },
+    {
+      "startPct": 0.4,
+      "endPct": 0.45,
+      "count": 1
+    },
+    {
+      "startPct": 0.55,
+      "endPct": 0.6,
+      "count": 2
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 25
+    }
+  ],
+  "tracks": {
+    "spa": {
+      "sessions": 2,
+      "laps": 5,
+      "resets": 33,
+      "resetHotspotsBins": [
+        {
+          "startPct": 0.15,
+          "endPct": 0.2,
+          "count": 2
+        },
+        {
+          "startPct": 0.2,
+          "endPct": 0.25,
+          "count": 2
+        },
+        {
+          "startPct": 0.35,
+          "endPct": 0.4,
+          "count": 1
+        },
+        {
+          "startPct": 0.4,
+          "endPct": 0.45,
+          "count": 1
+        },
+        {
+          "startPct": 0.55,
+          "endPct": 0.6,
+          "count": 2
+        },
+        {
+          "startPct": 0.95,
+          "endPct": 1.0,
+          "count": 25
+        }
+      ],
+      "durationHours": 1.42
+    }
+  },
+  "durationHours": 1.42
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026-01-05",
+    "cornerIsolation": 3,
+    "hotLaps": 4,
+    "raceSim": 0,
+    "mixed": 24
+  },
+  {
+    "date": "2026-01-12",
+    "cornerIsolation": 5,
+    "hotLaps": 14,
+    "raceSim": 0,
+    "mixed": 86
+  },
+  {
+    "date": "2026-01-19",
+    "cornerIsolation": 6,
+    "hotLaps": 1,
+    "raceSim": 0,
+    "mixed": 29
+  },
+  {
+    "date": "2026-01-26",
+    "cornerIsolation": 7,
+    "hotLaps": 4,
+    "raceSim": 5,
+    "mixed": 44
+  },
+  {
+    "date": "2026-02-02",
+    "cornerIsolation": 0,
+    "hotLaps": 0,
+    "raceSim": 6,
+    "mixed": 7
+  },
+  {
+    "date": "2026-02-09",
+    "cornerIsolation": 0,
+    "hotLaps": 0,
+    "raceSim": 0,
+    "mixed": 2
+  }
+]

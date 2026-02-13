@@ -1,0 +1,69 @@
+{
+  "date": "2026-01-29",
+  "sessions": 15,
+  "laps": 31,
+  "resets": 42,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.0,
+      "endPct": 0.05,
+      "count": 7
+    },
+    {
+      "startPct": 0.3,
+      "endPct": 0.35,
+      "count": 1
+    },
+    {
+      "startPct": 0.35,
+      "endPct": 0.4,
+      "count": 1
+    },
+    {
+      "startPct": 0.5,
+      "endPct": 0.55,
+      "count": 1
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 32
+    }
+  ],
+  "tracks": {
+    "monza full": {
+      "sessions": 15,
+      "laps": 31,
+      "resets": 42,
+      "resetHotspotsBins": [
+        {
+          "startPct": 0.0,
+          "endPct": 0.05,
+          "count": 7
+        },
+        {
+          "startPct": 0.3,
+          "endPct": 0.35,
+          "count": 1
+        },
+        {
+          "startPct": 0.35,
+          "endPct": 0.4,
+          "count": 1
+        },
+        {
+          "startPct": 0.5,
+          "endPct": 0.55,
+          "count": 1
+        },
+        {
+          "startPct": 0.95,
+          "endPct": 1.0,
+          "count": 32
+        }
+      ],
+      "durationHours": 4.83
+    }
+  },
+  "durationHours": 4.83
+}

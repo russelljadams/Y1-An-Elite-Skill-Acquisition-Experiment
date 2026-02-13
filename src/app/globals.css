@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 0.625rem;
+  /* Blue-black base — depth instead of void */
+  --background: 222 47% 5%;
+  --foreground: 215 25% 91%;
+  --card: 222 35% 9%;
+  --card-foreground: 215 25% 91%;
+  --popover: 222 35% 9%;
+  --popover-foreground: 215 25% 91%;
+  --primary: 215 25% 91%;
+  --primary-foreground: 222 47% 5%;
+  --secondary: 222 25% 14%;
+  --secondary-foreground: 215 25% 91%;
+  --muted: 222 25% 14%;
+  --muted-foreground: 215 16% 47%;
+  --accent: 187 80% 53%;
+  --accent-foreground: 222 47% 5%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 222 20% 18%;
+  --input: 222 25% 14%;
+  --ring: 187 80% 53%;
+  /* Motorsport-inspired chart palette */
+  --chart-1: 187 80% 53%;   /* cyan — primary data */
+  --chart-2: 24 95% 53%;    /* orange — personal best */
+  --chart-3: 160 84% 39%;   /* emerald — improvement */
+  --chart-4: 263 70% 76%;   /* violet — reference/alien */
+  --chart-5: 0 84% 60%;     /* red — incidents */
+  /* Semantic colors */
+  --positive: 160 84% 39%;
+  --negative: 0 84% 60%;
+  --purple-sector: 263 70% 60%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+}
+
+@layer utilities {
+  .text-accent {
+    color: hsl(var(--accent));
+  }
+  .glass {
+    @apply bg-white/[0.03] backdrop-blur-sm border border-white/[0.06] rounded-xl;
+  }
+  .glass-hover {
+    @apply transition-all duration-300 hover:bg-white/[0.06] hover:border-white/[0.1];
+  }
+}

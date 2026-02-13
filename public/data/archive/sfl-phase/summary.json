@@ -1,0 +1,128 @@
+{
+  "generatedAt": "2026-02-12T10:13:10.399240Z",
+  "totalSessions": 311,
+  "totalLaps": 14,
+  "totalHours": 113.27,
+  "totalResets": 3073,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.0,
+      "endPct": 0.05,
+      "count": 174
+    },
+    {
+      "startPct": 0.05,
+      "endPct": 0.1,
+      "count": 6
+    },
+    {
+      "startPct": 0.1,
+      "endPct": 0.15,
+      "count": 4
+    },
+    {
+      "startPct": 0.15,
+      "endPct": 0.2,
+      "count": 70
+    },
+    {
+      "startPct": 0.2,
+      "endPct": 0.25,
+      "count": 9
+    },
+    {
+      "startPct": 0.25,
+      "endPct": 0.3,
+      "count": 4
+    },
+    {
+      "startPct": 0.3,
+      "endPct": 0.35,
+      "count": 3
+    },
+    {
+      "startPct": 0.35,
+      "endPct": 0.4,
+      "count": 278
+    },
+    {
+      "startPct": 0.4,
+      "endPct": 0.45,
+      "count": 32
+    },
+    {
+      "startPct": 0.45,
+      "endPct": 0.5,
+      "count": 65
+    },
+    {
+      "startPct": 0.5,
+      "endPct": 0.55,
+      "count": 74
+    },
+    {
+      "startPct": 0.55,
+      "endPct": 0.6,
+      "count": 23
+    },
+    {
+      "startPct": 0.6,
+      "endPct": 0.65,
+      "count": 1
+    },
+    {
+      "startPct": 0.65,
+      "endPct": 0.7,
+      "count": 169
+    },
+    {
+      "startPct": 0.7,
+      "endPct": 0.75,
+      "count": 194
+    },
+    {
+      "startPct": 0.75,
+      "endPct": 0.8,
+      "count": 26
+    },
+    {
+      "startPct": 0.8,
+      "endPct": 0.85,
+      "count": 6
+    },
+    {
+      "startPct": 0.85,
+      "endPct": 0.9,
+      "count": 8
+    },
+    {
+      "startPct": 0.9,
+      "endPct": 0.95,
+      "count": 52
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 1875
+    }
+  ],
+  "latestDay": "2026-02-12",
+  "monthlyBreakdown": [
+    {
+      "month": "2026-01",
+      "sessions": 280,
+      "hours": 103.53,
+      "laps": 687
+    },
+    {
+      "month": "2026-02",
+      "sessions": 31,
+      "hours": 9.75,
+      "laps": 160
+    }
+  ],
+  "jan2026Sessions": 280,
+  "jan2026Hours": 103.53,
+  "feb2026Sessions": 31,
+  "feb2026Hours": 9.75
+}

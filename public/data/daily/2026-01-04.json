@@ -1,0 +1,49 @@
+{
+  "date": "2026-01-04",
+  "sessions": 15,
+  "laps": 16,
+  "resets": 76,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.0,
+      "endPct": 0.05,
+      "count": 8
+    },
+    {
+      "startPct": 0.9,
+      "endPct": 0.95,
+      "count": 1
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 67
+    }
+  ],
+  "tracks": {
+    "silverstone 2019 gp": {
+      "sessions": 15,
+      "laps": 16,
+      "resets": 76,
+      "resetHotspotsBins": [
+        {
+          "startPct": 0.0,
+          "endPct": 0.05,
+          "count": 8
+        },
+        {
+          "startPct": 0.9,
+          "endPct": 0.95,
+          "count": 1
+        },
+        {
+          "startPct": 0.95,
+          "endPct": 1.0,
+          "count": 67
+        }
+      ],
+      "durationHours": 4.18
+    }
+  },
+  "durationHours": 4.18
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-01-02",
+    "bestLap": 110.955,
+    "gapToAlien": 2.955,
+    "gapToTopSplit": 1.955
+  },
+  {
+    "date": "2026-01-03",
+    "bestLap": 112.196,
+    "gapToAlien": 4.196,
+    "gapToTopSplit": 3.196
+  },
+  {
+    "date": "2026-01-04",
+    "bestLap": 110.343,
+    "gapToAlien": 2.343,
+    "gapToTopSplit": 1.343
+  },
+  {
+    "date": "2026-01-05",
+    "bestLap": 109.822,
+    "gapToAlien": 1.822,
+    "gapToTopSplit": 0.822
+  }
+]

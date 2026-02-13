@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-02-11",
+    "offTracks": 0,
+    "spins": 0,
+    "bigSaves": 74,
+    "eventsPerLap": 0.525,
+    "totalLaps": 141
+  },
+  {
+    "date": "2026-02-12",
+    "offTracks": 0,
+    "spins": 1,
+    "bigSaves": 4,
+    "eventsPerLap": 0.357,
+    "totalLaps": 14
+  }
+]

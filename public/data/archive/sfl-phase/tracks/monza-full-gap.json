@@ -1,0 +1,152 @@
+[
+  {
+    "date": "2026-01-07",
+    "bestLap": 102.906,
+    "gapToAlien": 3.141,
+    "gapToTopSplit": 0.906
+  },
+  {
+    "date": "2026-01-08",
+    "bestLap": 102.991,
+    "gapToAlien": 3.226,
+    "gapToTopSplit": 0.991
+  },
+  {
+    "date": "2026-01-09",
+    "bestLap": 102.661,
+    "gapToAlien": 2.896,
+    "gapToTopSplit": 0.661
+  },
+  {
+    "date": "2026-01-11",
+    "bestLap": 102.387,
+    "gapToAlien": 2.622,
+    "gapToTopSplit": 0.387
+  },
+  {
+    "date": "2026-01-12",
+    "bestLap": 102.555,
+    "gapToAlien": 2.79,
+    "gapToTopSplit": 0.555
+  },
+  {
+    "date": "2026-01-13",
+    "bestLap": 102.067,
+    "gapToAlien": 2.302,
+    "gapToTopSplit": 0.067
+  },
+  {
+    "date": "2026-01-14",
+    "bestLap": 103.309,
+    "gapToAlien": 3.544,
+    "gapToTopSplit": 1.309
+  },
+  {
+    "date": "2026-01-15",
+    "bestLap": 101.993,
+    "gapToAlien": 2.228,
+    "gapToTopSplit": -0.007
+  },
+  {
+    "date": "2026-01-16",
+    "bestLap": 104.769,
+    "gapToAlien": 5.004,
+    "gapToTopSplit": 2.769
+  },
+  {
+    "date": "2026-01-17",
+    "bestLap": 102.277,
+    "gapToAlien": 2.512,
+    "gapToTopSplit": 0.277
+  },
+  {
+    "date": "2026-01-18",
+    "bestLap": 102.472,
+    "gapToAlien": 2.707,
+    "gapToTopSplit": 0.472
+  },
+  {
+    "date": "2026-01-19",
+    "bestLap": 102.044,
+    "gapToAlien": 2.279,
+    "gapToTopSplit": 0.044
+  },
+  {
+    "date": "2026-01-20",
+    "bestLap": 103.925,
+    "gapToAlien": 4.16,
+    "gapToTopSplit": 1.925
+  },
+  {
+    "date": "2026-01-24",
+    "bestLap": 103.608,
+    "gapToAlien": 3.843,
+    "gapToTopSplit": 1.608
+  },
+  {
+    "date": "2026-01-26",
+    "bestLap": 102.27,
+    "gapToAlien": 2.505,
+    "gapToTopSplit": 0.27
+  },
+  {
+    "date": "2026-01-27",
+    "bestLap": 103.824,
+    "gapToAlien": 4.059,
+    "gapToTopSplit": 1.824
+  },
+  {
+    "date": "2026-01-29",
+    "bestLap": 101.744,
+    "gapToAlien": 1.979,
+    "gapToTopSplit": -0.256
+  },
+  {
+    "date": "2026-01-30",
+    "bestLap": 101.288,
+    "gapToAlien": 1.523,
+    "gapToTopSplit": -0.712
+  },
+  {
+    "date": "2026-01-31",
+    "bestLap": 104.583,
+    "gapToAlien": 4.818,
+    "gapToTopSplit": 2.583
+  },
+  {
+    "date": "2026-02-01",
+    "bestLap": 102.81,
+    "gapToAlien": 3.045,
+    "gapToTopSplit": 0.81
+  },
+  {
+    "date": "2026-02-02",
+    "bestLap": 103.986,
+    "gapToAlien": 4.221,
+    "gapToTopSplit": 1.986
+  },
+  {
+    "date": "2026-02-03",
+    "bestLap": 102.412,
+    "gapToAlien": 2.647,
+    "gapToTopSplit": 0.412
+  },
+  {
+    "date": "2026-02-04",
+    "bestLap": 102.229,
+    "gapToAlien": 2.464,
+    "gapToTopSplit": 0.229
+  },
+  {
+    "date": "2026-02-09",
+    "bestLap": 101.922,
+    "gapToAlien": 2.157,
+    "gapToTopSplit": -0.078
+  },
+  {
+    "date": "2026-02-10",
+    "bestLap": 101.993,
+    "gapToAlien": 2.228,
+    "gapToTopSplit": -0.007
+  }
+]

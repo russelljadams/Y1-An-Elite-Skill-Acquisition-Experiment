@@ -1,0 +1,22 @@
+{
+  "monza-full": {
+    "alienBest": 99.765,
+    "topSplit": 102.0,
+    "source": "Garage61 — Tamas Simon 1:39.765"
+  },
+  "silverstone-2019-gp": {
+    "alienBest": 108.0,
+    "topSplit": 109.0,
+    "source": "Garage61 SFL top times (update with real data)"
+  },
+  "suzuka-grandprix": {
+    "alienBest": null,
+    "topSplit": null,
+    "source": "No data yet"
+  },
+  "spa-2024-bike": {
+    "alienBest": null,
+    "topSplit": null,
+    "source": "No data yet"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "date": "2026-01-24",
+  "sessions": 10,
+  "laps": 15,
+  "resets": 99,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.0,
+      "endPct": 0.05,
+      "count": 6
+    },
+    {
+      "startPct": 0.35,
+      "endPct": 0.4,
+      "count": 4
+    },
+    {
+      "startPct": 0.45,
+      "endPct": 0.5,
+      "count": 1
+    },
+    {
+      "startPct": 0.5,
+      "endPct": 0.55,
+      "count": 4
+    },
+    {
+      "startPct": 0.65,
+      "endPct": 0.7,
+      "count": 7
+    },
+    {
+      "startPct": 0.7,
+      "endPct": 0.75,
+      "count": 9
+    },
+    {
+      "startPct": 0.85,
+      "endPct": 0.9,
+      "count": 2
+    },
+    {
+      "startPct": 0.9,
+      "endPct": 0.95,
+      "count": 9
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 57
+    }
+  ],
+  "tracks": {
+    "monza full": {
+      "sessions": 10,
+      "laps": 15,
+      "resets": 99,
+      "resetHotspotsBins": [
+        {
+          "startPct": 0.0,
+          "endPct": 0.05,
+          "count": 6
+        },
+        {
+          "startPct": 0.35,
+          "endPct": 0.4,
+          "count": 4
+        },
+        {
+          "startPct": 0.45,
+          "endPct": 0.5,
+          "count": 1
+        },
+        {
+          "startPct": 0.5,
+          "endPct": 0.55,
+          "count": 4
+        },
+        {
+          "startPct": 0.65,
+          "endPct": 0.7,
+          "count": 7
+        },
+        {
+          "startPct": 0.7,
+          "endPct": 0.75,
+          "count": 9
+        },
+        {
+          "startPct": 0.85,
+          "endPct": 0.9,
+          "count": 2
+        },
+        {
+          "startPct": 0.9,
+          "endPct": 0.95,
+          "count": 9
+        },
+        {
+          "startPct": 0.95,
+          "endPct": 1.0,
+          "count": 57
+        }
+      ],
+      "durationHours": 1.72
+    }
+  },
+  "durationHours": 1.72
+}

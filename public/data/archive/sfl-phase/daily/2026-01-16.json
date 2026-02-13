@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-16",
+  "sessions": 3,
+  "laps": 4,
+  "resets": 3,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.0,
+      "endPct": 0.05,
+      "count": 1
+    },
+    {
+      "startPct": 0.55,
+      "endPct": 0.6,
+      "count": 2
+    }
+  ],
+  "tracks": {
+    "monza full": {
+      "sessions": 3,
+      "laps": 4,
+      "resets": 3,
+      "resetHotspotsBins": [
+        {
+          "startPct": 0.0,
+          "endPct": 0.05,
+          "count": 1
+        },
+        {
+          "startPct": 0.55,
+          "endPct": 0.6,
+          "count": 2
+        }
+      ],
+      "durationHours": 0.35
+    }
+  },
+  "durationHours": 0.35
+}

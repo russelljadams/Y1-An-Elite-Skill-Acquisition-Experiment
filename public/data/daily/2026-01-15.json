@@ -1,0 +1,119 @@
+{
+  "date": "2026-01-15",
+  "sessions": 12,
+  "laps": 37,
+  "resets": 185,
+  "resetHotspotsBins": [
+    {
+      "startPct": 0.0,
+      "endPct": 0.05,
+      "count": 10
+    },
+    {
+      "startPct": 0.1,
+      "endPct": 0.15,
+      "count": 1
+    },
+    {
+      "startPct": 0.15,
+      "endPct": 0.2,
+      "count": 4
+    },
+    {
+      "startPct": 0.35,
+      "endPct": 0.4,
+      "count": 23
+    },
+    {
+      "startPct": 0.4,
+      "endPct": 0.45,
+      "count": 3
+    },
+    {
+      "startPct": 0.45,
+      "endPct": 0.5,
+      "count": 9
+    },
+    {
+      "startPct": 0.65,
+      "endPct": 0.7,
+      "count": 1
+    },
+    {
+      "startPct": 0.7,
+      "endPct": 0.75,
+      "count": 1
+    },
+    {
+      "startPct": 0.9,
+      "endPct": 0.95,
+      "count": 1
+    },
+    {
+      "startPct": 0.95,
+      "endPct": 1.0,
+      "count": 132
+    }
+  ],
+  "tracks": {
+    "monza full": {
+      "sessions": 12,
+      "laps": 37,
+      "resets": 185,
+      "resetHotspotsBins": [
+        {
+          "startPct": 0.0,
+          "endPct": 0.05,
+          "count": 10
+        },
+        {
+          "startPct": 0.1,
+          "endPct": 0.15,
+          "count": 1
+        },
+        {
+          "startPct": 0.15,
+          "endPct": 0.2,
+          "count": 4
+        },
+        {
+          "startPct": 0.35,
+          "endPct": 0.4,
+          "count": 23
+        },
+        {
+          "startPct": 0.4,
+          "endPct": 0.45,
+          "count": 3
+        },
+        {
+          "startPct": 0.45,
+          "endPct": 0.5,
+          "count": 9
+        },
+        {
+          "startPct": 0.65,
+          "endPct": 0.7,
+          "count": 1
+        },
+        {
+          "startPct": 0.7,
+          "endPct": 0.75,
+          "count": 1
+        },
+        {
+          "startPct": 0.9,
+          "endPct": 0.95,
+          "count": 1
+        },
+        {
+          "startPct": 0.95,
+          "endPct": 1.0,
+          "count": 132
+        }
+      ],
+      "durationHours": 3.34
+    }
+  },
+  "durationHours": 3.34
+}

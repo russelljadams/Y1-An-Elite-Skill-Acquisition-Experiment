@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-02-12",
+    "bestLap": 142.653,
+    "medianLap": 146.284,
+    "stdDev": 6.987,
+    "completeLaps": 5,
+    "timedLaps": 5,
+    "cleanRate": 1.0,
+    "worstLap": 162.363,
+    "p25": 145.0,
+    "p75": 150.617,
+    "iqr": 5.618,
+    "cumulativeHours": 0.0,
+    "bestLap7d": 142.653,
+    "medianLap7d": 146.284,
+    "stdDev7d": 6.987
+  },
+  {
+    "date": "2026-02-13",
+    "bestLap": 140.176,
+    "medianLap": 140.697,
+    "stdDev": 16.766,
+    "completeLaps": 3,
+    "timedLaps": 3,
+    "cleanRate": 1.0,
+    "worstLap": 175.999,
+    "p25": 140.437,
+    "p75": 158.348,
+    "iqr": 17.911,
+    "cumulativeHours": 1.42,
+    "bestLap7d": 141.414,
+    "medianLap7d": 143.49,
+    "stdDev7d": 11.877
+  }
+]
