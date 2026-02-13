@@ -2,16 +2,21 @@
   {
     "name": "Sector 1",
     "start": 0.0,
-    "end": 0.3333
+    "end": 0.2
   },
   {
     "name": "Sector 2",
-    "start": 0.3333,
-    "end": 0.6666
+    "start": 0.2,
+    "end": 0.48
   },
   {
     "name": "Sector 3",
-    "start": 0.6666,
+    "start": 0.48,
+    "end": 0.78
+  },
+  {
+    "name": "Sector 4",
+    "start": 0.78,
     "end": 1.0
   }
 ]
