@@ -18,25 +18,5 @@
         "stddev": 0.111
       }
     }
-  },
-  {
-    "date": "2026-02-10",
-    "sectors": {
-      "Sector 1": {
-        "best": 33.931,
-        "median": 34.212,
-        "stddev": 0.21
-      },
-      "Sector 2": {
-        "best": 35.377,
-        "median": 36.224,
-        "stddev": 3.328
-      },
-      "Sector 3": {
-        "best": 32.576,
-        "median": 32.835,
-        "stddev": 0.173
-      }
-    }
   }
 ]

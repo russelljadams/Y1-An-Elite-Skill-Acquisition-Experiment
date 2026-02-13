@@ -1,24 +1,13 @@
 [
   {
-    "date": "2026-01",
-    "bestLap": 101.288,
-    "medianLap": 104.293,
-    "stdDev": 3.51,
-    "completeLaps": 503,
-    "worstLap": 119.381,
-    "p25": 102.983,
-    "p75": 106.3,
-    "iqr": 3.317
-  },
-  {
     "date": "2026-02",
-    "bestLap": 101.922,
-    "medianLap": 103.523,
-    "stdDev": 3.487,
-    "completeLaps": 141,
-    "worstLap": 118.438,
-    "p25": 102.632,
-    "p75": 105.544,
-    "iqr": 2.911
+    "bestLap": 102.229,
+    "medianLap": 102.632,
+    "stdDev": 0.915,
+    "completeLaps": 33,
+    "worstLap": 105.544,
+    "p25": 102.377,
+    "p75": 103.442,
+    "iqr": 1.064
   }
 ]
